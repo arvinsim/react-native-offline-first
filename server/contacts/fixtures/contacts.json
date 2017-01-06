@@ -1,0 +1,20 @@
+[
+    {
+        "model": "contacts.contact",
+        "pk": 1,
+        "fields": {
+            "portrait": "https://randomuser.me/api/portraits/men/1.jpg",
+            "first_name": "John",
+            "last_name": "Lennon"
+        }
+    },
+    {
+        "model": "contacts.contact",
+        "pk": 2,
+        "fields": {
+            "portrait": "https://randomuser.me/api/portraits/men/2.jpg",
+            "first_name": "Paul",
+            "last_name": "McCartney"
+        }
+    }
+]
