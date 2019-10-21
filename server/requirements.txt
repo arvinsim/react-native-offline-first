@@ -1,6 +1,6 @@
 astroid==1.4.7
 Django==1.10.4
-djangorestframework==3.5.3
+djangorestframework==3.9.1
 lazy-object-proxy==1.2.1
 pylint==1.5.4
 six==1.10.0
